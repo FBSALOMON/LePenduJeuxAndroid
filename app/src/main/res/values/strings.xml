@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP3_OO_LePendu</string>
+    <string name="new_game">New Game</string>
+    <string name="change_server">Change Server</string>
+    <string name="title_activity_game">gameActivity</string>
+    <string name="title_activity_change_server">ChangeServerActivity</string>
+</resources>
